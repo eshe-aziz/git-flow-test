@@ -12,3 +12,8 @@ body{
     border: 3px none;
     border-radius: 30px;
 }
+
+
+.container{
+    padding-right: 300px;
+}
